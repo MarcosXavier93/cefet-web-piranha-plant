@@ -1,0 +1,59 @@
+h1{
+    color: limegreen;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+}
+
+
+DivPaginaInicial{
+
+    text-align-last: justify;
+}
+
+paragrafoEspecial{
+
+    border-style:solid;border-width:3px;border-color:limegreen
+}
+h2{
+    color: limegreen;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 28px;
+}
+
+table {
+    text-align: center;
+    align-content: center;
+    border-collapse: collapse;
+    width: 600px;
+    border: 1px solid black;
+    margin: auto;
+  }
+
+  td, th {
+    border: 1px solid black;
+    align-items: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  thead{
+    background-color: darkgray;
+    color: beige;
+    text-align: center;
+
+  }
+body{
+    background-image: url(imagens/desenho-loucao.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto   ;
+    height: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+ol{
+    margin-top: 0%;
+    padding-top: 0%;
+}
+p{
+    margin-inline-end: 0%;
+    margin-inline: 0px;
+}
