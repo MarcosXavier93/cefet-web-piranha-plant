@@ -10,7 +10,7 @@ DivPaginaInicial{
     text-align-last: justify;
 }
 
-paragrafoEspecial{
+p#paragrafoEspecial{
 
     border-style:solid;border-width:3px;border-color:limegreen
 }
@@ -40,7 +40,7 @@ table {
     text-align: center;
 
   }
-body{
+body#PaginaLoja{
     background-image: url(imagens/desenho-loucao.jpg);
     background-repeat: no-repeat;
     background-position: center;
