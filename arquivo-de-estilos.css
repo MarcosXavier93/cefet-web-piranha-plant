@@ -57,3 +57,6 @@ p{
     margin-inline-end: 0%;
     margin-inline: 0px;
 }
+img{
+    border: 8px solid limegreen;
+}
